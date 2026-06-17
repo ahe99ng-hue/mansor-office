@@ -1,0 +1,6 @@
+{
+  "name": "Mansour Office",
+  "description": "A luxury boutique real estate brokerage bridging the gap between high-net-worth investors and premium land, agriculture, and industrial assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
