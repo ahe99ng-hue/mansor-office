@@ -94,7 +94,7 @@ export default function Hero({ ownerNumber, lang }: HeroProps) {
           className="relative w-64 h-36 md:w-80 md:h-44 rounded-2xl overflow-hidden border border-champagne/30 shadow-[0_20px_50px_rgba(0,0,0,0.85)] mb-8 group"
         >
           <img
-            src="/src/assets/images/mansour_logo_1781670923456.jpg"
+            src="https://i.ibb.co/tw9LNcV2/mansour-logo-1781670923456.jpg"
             alt="Mansour Office Logo"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover select-none transition-all duration-700 group-hover:scale-[1.03]"
